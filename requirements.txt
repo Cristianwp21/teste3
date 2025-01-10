@@ -1,2 +1,2 @@
+requests==2.31
 numpy>=1.19.5
-pip install requests --upgrade
